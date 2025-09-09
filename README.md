@@ -1,2 +1,2 @@
 # explora
-just an appp.
+just an app.
